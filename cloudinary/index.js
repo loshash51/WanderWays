@@ -10,7 +10,7 @@ cloudinary.config({
 const storage = new CloudinaryStorage({
   cloudinary,
   params: {
-    folder: "HiddenHollows",
+    folder: "WanderWays",
     allowedFormats: ["jpeg", "png", "jpg"],
   },
 });

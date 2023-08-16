@@ -35,12 +35,12 @@ const seedDB = async () => {
       price: price,
       images: [
         {
-          url: "https://res.cloudinary.com/dg9tkwbcn/image/upload/v1675787761/HiddenHollows/lltrmfrbwneqsjexykjq.jpg",
-          filename: "HiddenHollows/lltrmfrbwneqsjexykjq",
+          url: "https://res.cloudinary.com/dg9tkwbcn/image/upload/v1675787761/WanderWays/lltrmfrbwneqsjexykjq.jpg",
+          filename: "WanderWays/lltrmfrbwneqsjexykjq",
         },
         {
-          url: "https://res.cloudinary.com/dg9tkwbcn/image/upload/v1675787761/HiddenHollows/d2vctvuhqnkzvanncs2s.jpg",
-          filename: "HiddenHollows/d2vctvuhqnkzvanncs2s",
+          url: "https://res.cloudinary.com/dg9tkwbcn/image/upload/v1675787761/WanderWays/d2vctvuhqnkzvanncs2s.jpg",
+          filename: "WanderWays/d2vctvuhqnkzvanncs2s",
         },
       ],
     });
